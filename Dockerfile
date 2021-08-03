@@ -1,6 +1,6 @@
 FROM movecrew/one4ubot:alpine-latest
 
-RUN git clone -b sql-extended https://github.com/vaibhavchandra13/GenBot /root/GenBot
+RUN git clone -b sql-extended https://github.com/TheGreyWolfXD/GenBot /root/GenBot
 RUN chmod 777 /root/GenBot
 WORKDIR /root/GenBot/
 

@@ -17,7 +17,7 @@ Make sure you have a heroku account and follow all the necessary steps.
 
 - Get `API_ID` y `API_HASH` From [here](https://my.telegram.org/)
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/vaibhavchandra13/GenBot"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/TheGreyWolfXD/GenBot"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Credits
  
